@@ -1,1 +1,1 @@
-commit 3 for our feature1
+conflict2 to test merge conflict in master
