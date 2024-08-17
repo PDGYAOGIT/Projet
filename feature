@@ -1,1 +1,2 @@
-conflict2 to test merge conflict in master
+conflict1 to test merge conflict
+
